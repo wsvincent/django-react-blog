@@ -1,9 +1,19 @@
-This is a blog built with Django Rest Framework and React. You can see a live, working version here.
+This is a basic blog built with Django Rest Framework and React.
 
 If you're interested in a screencast tutorial that goes step-by-step through this project please sign up for my [newsletter here](http://eepurl.com/doKgwf) to be notified when it is available.
 
 ## Features
 
+* Django 2.0 and Django Rest Framework 3
+* Pipenv
 * Custom user model
+* Token-based authentication
+* Signup/login/logout endpoints
+* Social authentication va `django-allauth`
+* Documentation
 
-- add docker...
+## Todos
+
+* React frontend
+* Docker?
+* Tests
