@@ -7,9 +7,9 @@ If you're interested in a screencast tutorial that goes step-by-step through thi
 * Django 2.0 and Django Rest Framework 3
 * Pipenv
 * Custom user model
-* Token-based authentication
+* JWT tokens
 * Signup/login/logout endpoints
-* Social authentication va `django-allauth`
+* Social authentication via `django-allauth`
 * Documentation
 
 ## Todos

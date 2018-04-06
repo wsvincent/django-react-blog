@@ -10,8 +10,11 @@ name = "pypi"
 django = "*"
 djangorestframework = "*"
 django-rest-auth = "*"
+djangorestframework-jwt = "*"
 django-allauth = "*"
 django-cors-headers = "*"
+coreapi = "*"
+django-rest-swagger = "*"
 
 
 [dev-packages]
